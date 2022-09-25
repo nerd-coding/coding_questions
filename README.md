@@ -1,2 +1,3 @@
-# coding_questions
-Coding Questions
+# Nerd Coding
+
+Coding Questions and Solutions
